@@ -4,8 +4,11 @@
   "description": "A fun web based game",
   "main": "index.js",
   "scripts": {
-    "start" : "index.html"
+    "start": "index.html"
   },
   "author": "Onire Temisan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tachyons": "^4.11.1"
+  }
 }
